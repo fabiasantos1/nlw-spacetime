@@ -111,7 +111,6 @@ aside {
   background-position: top right;
   background-repeat: no-repeat;
   background-size: auto 100%;
-
 }
 
 aside * {
@@ -146,8 +145,8 @@ aside span {
     grid-template-columns: 1fr;
     grid-template-rows: 0.2fr 0.8fr;
     grid-template-areas:
-    "profile"
-    "timeline";
+      "profile"
+      "timeline";
   }
 
   aside {
